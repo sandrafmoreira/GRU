@@ -28,7 +28,7 @@ export default {
   methods: {
     async initializeMap() {
       const loader = new Loader({
-        apiKey: "AIzaSyBWDBV60KO4k505pCU0ltRqyDNCG08vu1s",
+        apiKey: "",
         version: "weekly",
       });
 
